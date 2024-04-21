@@ -1,4 +1,4 @@
-# # Splunk Boss of the SOCv3 (progress)
+# Splunk Boss of the SOCv3 (progress)
 
 ## Objective
 
